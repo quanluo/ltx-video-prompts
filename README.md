@@ -11,6 +11,15 @@ performance, camera movement, image-to-video, and synchronized audio-video.
 [Official LTX-2 source](https://github.com/Lightricks/LTX-2) ·
 [Prompt schema](prompts/README.md)
 
+## Related guides
+
+- [What is LTX Video?](https://github.com/quanluo/ltx-video-docs/blob/main/docs/getting-started/what-is-ltx-video.md)
+  explains the model, interfaces, and prompt-to-output flow.
+- [LTX ComfyUI tutorial](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comfyui/ltx-comfyui-tutorial.md)
+  shows where prompts enter a visual workflow.
+- [Create with multiple AI video models on LTX.dev](https://ltx.dev) or return
+  to the [LTX.dev ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem).
+
 ## Collections
 
 ```text
