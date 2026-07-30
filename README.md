@@ -9,6 +9,8 @@ camera movement, image-to-video and synchronized audio-video.
 
 [Try prompts on LTX.dev](https://ltx.dev/prompts) ·
 [Text to video](https://ltx.dev/studio/text-to-video) ·
+[Prompt structure guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/prompting/ltx-video-prompts-library.md) ·
+[Cinematic prompt guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/prompting/cinematic-ai-video-prompts.md) ·
 [Model comparison](https://github.com/quanluo/ltx-video-docs/blob/main/docs/benchmarks/ai-video-model-benchmark.md) ·
 [Workflow index](https://github.com/quanluo/ltx-comfyui-workflows)
 
@@ -35,6 +37,8 @@ Helpful guides:
 - [LTX.dev vs Runway](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/ltx-dev-vs-runway.md)
 - [Open-weight video models](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/open-source-ai-video-models.md)
 - [Workflow library](https://github.com/quanluo/ltx-video-docs/blob/main/docs/workflows/ltx-workflow-library.md)
+- [AI filmmaking workflow](https://github.com/quanluo/ltx-video-docs/blob/main/docs/filmmaking/ai-filmmaking-workflow-with-ltx.md)
+- [Create an AI short film](https://github.com/quanluo/ltx-video-docs/blob/main/docs/filmmaking/create-ai-short-films-with-ltx.md)
 
 ## Prompt structure
 
@@ -51,4 +55,3 @@ media without permission, or outputs with unclear redistribution rights.
 
 Original repository text and prompt metadata are available under the
 [MIT License](LICENSE). Input and output media may carry separate licenses.
-
