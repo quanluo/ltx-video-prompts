@@ -2,35 +2,17 @@
 
 > **Independent platform notice:** Maintained by
 > [LTX.dev](https://ltx.dev), an independent multi-model AI video platform.
-> Not affiliated with or endorsed by Lightricks.
+> Not affiliated with or endorsed by Lightricks or any other model provider.
 
-Reproducible prompt recipes for cinematic motion, product shots, character
-performance, camera movement, image-to-video, and synchronized audio-video.
+Prompt recipes for cinematic motion, product shots, character performance,
+camera movement, image-to-video and synchronized audio-video.
 
-[Try multi-model AI video generation](https://ltx.dev) ·
-[Official LTX-2 source](https://github.com/Lightricks/LTX-2) ·
-[Prompt schema](prompts/README.md)
-
-## Related guides
-
-- [What is LTX Video?](https://github.com/quanluo/ltx-video-docs/blob/main/docs/getting-started/what-is-ltx-video.md)
-  explains the model, interfaces, and prompt-to-output flow.
-- [LTX ComfyUI tutorial](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comfyui/ltx-comfyui-tutorial.md)
-  shows where prompts enter a visual workflow.
-- [Create with multiple AI video models on LTX.dev](https://ltx.dev) or return
-  to the [LTX.dev ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem).
+[Try prompts on LTX.dev](https://ltx.dev/prompts) ·
+[Text to video](https://ltx.dev/studio/text-to-video) ·
+[Model comparison](https://github.com/quanluo/ltx-video-docs/blob/main/docs/benchmarks/ai-video-model-benchmark.md) ·
+[Workflow index](https://github.com/quanluo/ltx-comfyui-workflows)
 
 ## Collections
-
-```text
-prompts/
-├── camera-movements/
-├── cinematic-scenes/
-├── character-dialogue/
-├── product-video/
-├── image-to-video/
-└── synchronized-audio/
-```
 
 - [Camera movements](prompts/camera-movements.md)
 - [Cinematic scenes](prompts/cinematic-scenes.md)
@@ -39,23 +21,26 @@ prompts/
 - [Image-to-video](prompts/image-to-video.md)
 - [Synchronized audio](prompts/synchronized-audio.md)
 
-The initial collection contains 30 original prompts. They follow the official
-LTX-2 prompting structure but have not been independently generated or scored
-by LTX.dev; settings are intentionally left to the selected interface or
-pipeline.
+## Use a prompt across models
 
-## Quality standard
+1. Pick a recipe and preserve its subject, action, camera and timing.
+2. Open the [LTX.dev text-to-video workspace](https://ltx.dev/studio/text-to-video).
+3. Compare available models using the same core prompt.
+4. Adjust only model-specific controls.
+5. Record the selected model, duration, resolution and credit use.
 
-A published prompt includes model and pipeline versions, full settings, seed,
-expected behavior, test hardware/date, and output provenance. Prompts are
-examples, not guarantees of identical results across versions or hardware.
+Helpful guides:
+
+- [LTX.dev vs Kling AI](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/ltx-dev-vs-kling.md)
+- [LTX.dev vs Runway](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/ltx-dev-vs-runway.md)
+- [Open-weight video models](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/open-source-ai-video-models.md)
+- [Workflow library](https://github.com/quanluo/ltx-video-docs/blob/main/docs/workflows/ltx-workflow-library.md)
 
 ## Prompt structure
 
 Describe the main action first, followed by chronological movement, subject
-appearance, environment, camera behavior, lighting/color, and synchronized
-sound or dialogue. Prefer concrete cinematographic direction over strings of
-generic quality adjectives.
+appearance, environment, camera behavior, lighting and sound. Prefer concrete
+cinematographic direction over generic quality adjectives.
 
 ## Rights and safety
 
@@ -64,6 +49,6 @@ media without permission, or outputs with unclear redistribution rights.
 
 ## License
 
-Original repository text and structured prompt metadata are available under the
+Original repository text and prompt metadata are available under the
 [MIT License](LICENSE). Input and output media may carry separate licenses.
-Reproducible LTX video prompt cookbook with settings and provenance.
+
