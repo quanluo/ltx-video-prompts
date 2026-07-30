@@ -1,8 +1,7 @@
 # LTX Video Prompt Cookbook
 
-> **Independent platform notice:** Maintained by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform.
-> Not affiliated with or endorsed by Lightricks or any other model provider.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 Prompt recipes for cinematic motion, product shots, character performance,
 camera movement, image-to-video and synchronized audio-video.
