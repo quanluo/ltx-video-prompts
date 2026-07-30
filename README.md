@@ -23,6 +23,18 @@ prompts/
 └── synchronized-audio/
 ```
 
+- [Camera movements](prompts/camera-movements.md)
+- [Cinematic scenes](prompts/cinematic-scenes.md)
+- [Character dialogue](prompts/character-dialogue.md)
+- [Product video](prompts/product-video.md)
+- [Image-to-video](prompts/image-to-video.md)
+- [Synchronized audio](prompts/synchronized-audio.md)
+
+The initial collection contains 30 original prompts. They follow the official
+LTX-2 prompting structure but have not been independently generated or scored
+by LTX.dev; settings are intentionally left to the selected interface or
+pipeline.
+
 ## Quality standard
 
 A published prompt includes model and pipeline versions, full settings, seed,
